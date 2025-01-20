@@ -1,2 +1,2 @@
-photos/
-node_modules/
+photos/*
+node_modules/*
