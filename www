@@ -1,0 +1,5 @@
+#!/usr/bin/env/node
+import http from 'http'
+import { debug } from 'console'
+debug('astrosphere:server')
+
